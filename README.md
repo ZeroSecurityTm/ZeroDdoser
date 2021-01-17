@@ -15,4 +15,4 @@
 **Run Script:**
 `python zerodoser.py`
 
-_~ Our Telegram Channel > T.ME/Zero_Scurity_TM
+__~ Our Telegram Channel > T.ME/Zero_Scurity_TM__
