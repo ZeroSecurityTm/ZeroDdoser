@@ -24,4 +24,4 @@
 
 **Run script in your VPS to down sites faster & Better!**
 
-~ **Our Telegram Channel** > T.ME/Zero_Scurity_TM
+~ **Our Telegram Channel** > T.ME/Zero_Security_TM
